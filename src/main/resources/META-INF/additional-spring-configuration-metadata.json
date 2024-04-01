@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "mybatis-plus.configuration.global-config.db-config.logic-delete-field",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.configuration.global-config.db-config.logic-delete-field."
+    },
+    {
+      "name": "mybatis-plus.configuration.global-config.db-config.logic-delete-value",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.configuration.global-config.db-config.logic-delete-value."
+    },
+    {
+      "name": "mybatis-plus.configuration.global-config.db-config.logic-not-delete-value",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.configuration.global-config.db-config.logic-not-delete-value."
+    }
+  ] }
